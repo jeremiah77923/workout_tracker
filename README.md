@@ -9,6 +9,8 @@ day from the input they give. Then nutrionx uses its machine learning and data a
 
 How to join the service: 
 1. Click on the below link
-2. Then you will be guided step by step throughout the entire thing!!!
+2. Click run
+3. Then you will be guided step by step throughout the entire thing!!!
 
 If you wish to join my service, please click on the following link to do so: 
+https://replit.com/@JeremiahHawthor/workouttracker?v=1
